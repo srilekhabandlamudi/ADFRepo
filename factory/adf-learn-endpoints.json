@@ -1,0 +1,9 @@
+{
+	"name": "adf-learn-endpoints",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9be3bb63-fd6e-4451-9662-491c05ab27b0",
+		"tenantId": "30bf9f37-d550-4878-9494-1041656caf27"
+	}
+}
